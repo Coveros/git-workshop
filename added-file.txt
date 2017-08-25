@@ -1,1 +1,3 @@
 These changes are not in develop so they show up in the pull request as added
+
+This is a second addition, which will show up in the overall diff but only in the commit which it was added on the commits tab.
